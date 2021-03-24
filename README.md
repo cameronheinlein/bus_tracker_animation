@@ -1,10 +1,14 @@
 <h1>Bus Tracker Animation</h1>
-<ul>
+
   <h2>Description</h2>
-  <li>This project maps the bus stops from MIT to Harvard campus and displays real time data of the bus location</li>
+  <p>This project maps the bus stops from MIT to Harvard campus and displays real time data of the bus locations.</p>
+  
+  <h2>How to Run</h2>
+  <p>Click on the button to show the stops on the route</p>
+  
   <h2>Roadmap of future improvements</h2>
-  <li>The style of the map can be changed to liking, highlighting different areas, using different bus systems or routes etc.</li>
-  <h2>License Information</h2>
-  <li>MIT licensed</li>
-  </ul>
+  <p>The style of the map can be changed to liking, highlighting different areas, using different bus systems or routes etc.<p>
+  
+  <h2><a href="https://choosealicense.com/licenses/mit/">License</h2>
+ 
   
